@@ -13,7 +13,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       body: Center(
         child: Container(
-          child: const Text("Home Page"),
+          child: const Text("Home Page(changes happen on device two)"),
         ),
       ),
     );
